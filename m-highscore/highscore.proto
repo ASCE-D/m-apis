@@ -2,7 +2,7 @@
 syntax = "proto3";
 package m.highscore.v1;
 
-option go_package = "v1/game";
+option go_package = "./";
 
 service Game{
     rpc SetHighScore(SetHighScoreRequest) returns (SetHighScoreResponse);

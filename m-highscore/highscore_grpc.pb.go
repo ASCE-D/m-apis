@@ -4,7 +4,7 @@
 // - protoc             v4.25.2
 // source: highscore.proto
 
-package game
+package __
 
 import (
 	context "context"
