@@ -1,4 +1,4 @@
-module github.com/ASCE-D/m-apis
+module github.com/ASCE-D/m-apis/m-highscore
 
 go 1.18
 
