@@ -1,4 +1,4 @@
-// protoc --go_out=plugins=grpc:. *.proto
+// protoc --go_out=paths=source_relative:. --go-grpc_out=paths=source_relative:. highscore.proto
 syntax = "proto3";
 package m.highscore.v1;
 
